@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Abrar Shahriar</h1>
+<h1 align="center">Abrar Shahriar</h1>
 
 ###
 
-<h2 align="left">Frontend Developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 ###
 
