@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I am a Frontend Web Developer from Bangladesh. I make beautiful, responsive and super user-friendly web applications.</p>
+<p align="left">I am a Frontend Web Developer from Bangladesh. I make beautiful, responsive and smooth user-friendly web applications.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning MongoDB<br>🎯 Goals: to be a Full-stack Web Developer<br>🎲 Fun fact: I love to sleep</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning MongoDB<br>🎯 Goals: become a Full-stack Web Developer<br>🎲 Fun fact: I love to sleep</p>
 
 ###
 
